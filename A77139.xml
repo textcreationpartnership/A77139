@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter form the reare-admiral of the English fleet for the common wealth of England, to an eminent merchant in London. Being a true and plaine narration of the whole proceedings and fight betwixt them and the Dutch fleet near the Downes, upon the 19. day of May, 1652.</title>
+            <author>Bourne, Nehemiah, ca. 1611-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77139</idno>
+            <idno type="STC">Wing B3857</idno>
+            <idno type="STC">Thomason E665_19</idno>
+            <idno type="STC">ESTC R206859</idno>
+            <idno type="EEBO-CITATION">99865958</idno>
+            <idno type="PROQUEST">99865958</idno>
+            <idno type="VID">118216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118216)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E665[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter form the reare-admiral of the English fleet for the common wealth of England, to an eminent merchant in London. Being a true and plaine narration of the whole proceedings and fight betwixt them and the Dutch fleet near the Downes, upon the 19. day of May, 1652.</title>
+                  <author>Bourne, Nehemiah, ca. 1611-1691.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.D. for William Hope, and are to be sold at his shop at the North door of the Old Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on p.7: Aboard the Andrew, in the Downes, May, 21. 1652. N. Bourne.</note>
+                  <note>Annotation on Thomason copy: "June 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118216:1" rendition="simple:additions"/>
+            <p>THE Copy of a Letter from THE REARE-ADMIRAL OF THE <hi>ENGLISH FLEET</hi> FOR THE COMMON WEALTH OF ENGLAND, TO AN EMINENT MERCHANT IN <hi>LONDON.</hi>
+            </p>
+            <p>Being a true and plaine Narration of the whole Proceedings and Fight betwixt them and the <hi>Dutch</hi> Fleet near the Downes, upon the 19. day of <hi>May,</hi> 1652.</p>
+            <p>
+               <add>June 1<hi rend="sup">st.</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed by <hi>G. D.</hi> for <hi>William Hope,</hi> and are to be ſold at his Shop at the North door of the Old Exchange, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118216:2"/>
+            <pb n="3" facs="tcp:118216:2"/>
+            <head>The Reer-Admirals Letter to an Eminent Merchant in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>LEaſt my ſilence altogether may breed ſuſpition of neglect to my friends, although you may well gueſſe I have little time yet to write, being ſcarce recrui<g ref="char:EOLhyphen"/>ted with any reſt, and having many things in head and hand at this ſeaſon; yet I ſhall briefly offer thus much by way of advice, to the end you may with us acknowledge, that we have great incouragement to believe, that the pledge of Gods favour to us, is a ſufficient Teſtimony amongſt many more, that he is amongſt us, and will appear in glory. The 18 of this Inſtant about ten a clock in the forenoon, <hi>Van Trumpe</hi> with 40 ſail of Ships of War more, appeared very near the back of the <hi>Goodwin,</hi> the weather being haiſie, we could not ſee him before. At which time of his appearance, my ſelf being commanded thereunto, was left in the <hi>Downs,</hi> and wore a Flag at the Maintopmaſt head, and with me ſeven ſhips were left, the reſt of the Fleet being with the General to the Weſtward, they conſiſting of 12. ſail, when I ſaw them luf<g ref="char:EOLhyphen"/>fing round in with the Southſands head, the tide of Floud being juſt then come; I concluded he was reſolved for the <hi>Downs,</hi> and intended to have dealt with us, he knowing by in<g ref="char:EOLhyphen"/>telligence that our Fleet was divided. I preſently got looſe, and thoſe with me, and were in readineſs for them with that ſmall ſtrength we had. But within two hours after he had lain muzled between the Sand-head and the Forland, two Frigots appointed by the General <hi>Trump,</hi> came towards us, which were met by one ſmall Frigot, I ſent out for that purpoſe to underſtand their Reſolution; who anſwered, that they had a meſſage to deliver to the Commander in the <hi>Downs,</hi> ſo they came into the Road, and the Captains of them both came a<g ref="char:EOLhyphen"/>board
+<pb n="4" facs="tcp:118216:3"/>me, who in the name of their Admirall ſaluted me, and gave me this account of his approach ſo near: Namely, that he thought it neceſſary to ſend them to give this intimation of aſſurance, that he came with no intent to offer any injurie to the Engliſh Nation, and withall deſired there might not be apprehenſion of any ſuch thing, for he was forced there<g ref="char:EOLhyphen"/>unto being put to Leeward with his Fleet by the Northerly winds that had blown hard, and that the day before he rode off <hi>Dunkirk,</hi> where divers of his Fleet had loſt their An<g ref="char:EOLhyphen"/>chors, and ſo forced to Leeward. This complement I received with great allowance on my part, in point of Credence; look<g ref="char:EOLhyphen"/>ing at this but a juggle, and could not otherwiſe expound this, but a high affront to this State, and a great provocati<g ref="char:EOLhyphen"/>on to us, and by his Meſſenger returned this Anſwer, that in part I believed their coming ſo nigh was occaſioned by the winds. But I know well it was in their power whether that day they would have come ſo nigh us, and ſo returned a com<g ref="char:EOLhyphen"/>plement to their Admiral, and deſired, if he were reall in what he pretended, he would remove his quarters, elſe we ſhould interpret it otherwiſe, and gave him to underſtand that our Admirall was plying up towards this place being Crucing a<g ref="char:EOLhyphen"/>broad. Among other diſcourſe they told me their Admi<g ref="char:EOLhyphen"/>rall would have come into the Road, but was not willing to ſtrike his Flag: To which I returned him anſwer, that we ſhould expect nothing more nor leſſe, but what they know to be the ancient right of this Nation, and that would be ex<g ref="char:EOLhyphen"/>pected not onely here, but elſewhere in theſe Seas where<g ref="char:EOLhyphen"/>ever we met him. And whatever our ſtrength was in their outward Obſervation, we had the ſtrong God on our ſide, who would judge between the Nations, and whether they intend<g ref="char:EOLhyphen"/>ed War or Peace, it did not ſignifie much to me, but wiſhed the hand of God might be upon that man, who ſhould be firſt cauſe or ground of the breach between us. For our parts they might ſee ſenſibly that we had no ſuch intentions, unleſs for<g ref="char:EOLhyphen"/>ced thereunto. So they returned with this meſſage, and that evening the whole Fleet anchored off the <hi>S.</hi> Foreland in the fair way. Of all this I gave account to the Councel of State, and alſo diſpatched away a ſmall Veſſel with the like to the
+<pb n="5" facs="tcp:118216:3"/>General <hi>Blake,</hi> which came to his hand that night, and in the morning I received return from him, being between the <hi>Neſse</hi> and the <hi>Foulſtone.</hi> All that night I kept a guard by two Fri<g ref="char:EOLhyphen"/>gots that lay at a diſtance from me, and one from another, betwixt us and them, to give ſight of their motion, but they moved not that night. About noon the nineteenth day, wee ſet ſail with my Squadron towards <hi>Dover,</hi> ſuppoſing by that time I had the length of the Foreland, I ſhould ſee our Gene<g ref="char:EOLhyphen"/>rall, who that Floud would be with us: And immediately the <hi>Hollands</hi> Fleet weighed anchor, and all ſtood off towards the coaſt of <hi>France.</hi> I bore away to the Weſtward, and within an hour ſaw our Fleet at three Leagus diſtance almoſt, they plying we came neere them apace; all this while <hi>Trump</hi> ſtands over, and as I ſuppoſe, was fitting his Ships, and con<g ref="char:EOLhyphen"/>ſulting, what to doe, for by this time he ſaw our General: In<g ref="char:EOLhyphen"/>deed I thought ſurely he would have plyed homewards to a<g ref="char:EOLhyphen"/>void ſtriking. But very ſuddenly after he bore up, and all his Fleet, fourty one in all, and made all ſail, himſelf in the Van ſteering right our General, and ſo ſeaſonably did God or<g ref="char:EOLhyphen"/>der things according to our thoughts, that were juſt, and were in conjunction with both our Squadrons by the time that hee was come to our Admiral: He moſt inſolently bore right to him with his Flag abroad, at which the General ſhot once, a ſecond time, and a third; Upon which <hi>Trump</hi> fired his broad ſide, or the greateſt part at him, and withall put abroad a bloudie Flag under his other, upon which every of us addreſ<g ref="char:EOLhyphen"/>ſed to the Ingagement, according to that God called us unto: Their Ships generally firing upon us firſt, and indeed the rea<g ref="char:EOLhyphen"/>ſon of that in part was, becauſe we would get neerer them, that ſo our Ordnance might doe the better execution on them, and withall we look at it as our advantage in point of Inno<g ref="char:EOLhyphen"/>cencie, that they ſtruck us firſt.</p>
+            <p>About four in the afternoone wee began, and continued fighting till it was darke. <hi>Trump</hi> ſteered a way right afore it, the wind being Eaſterly, his Fleet followed accordingly, we being on his right wing, ſome of us endeavouring to break his body, divided them into two or three parts, wherein they ſhuf<g ref="char:EOLhyphen"/>fled themſelves into cluſters, but by reaſon many of our Ships
+<pb n="6" facs="tcp:118216:4"/>and Friggots ſailed very heavie by reaſon they are foule, we could not ſo fully attaine our deſire upon them, yet by the help of God gave them ſo much, that they had no mind to engage any further then we could force it: for they made all ſayle they could, moſt of them, and as wee coveted to be near them they declined, and I doe verily beleive they were heart-ſtrucken notwithſtanding their inſolent Bravado. This gave us a clear call, and added a great deal of reſolution to us, that they ſought us, and came to us to make the quarrel, when as they might have avoided it do what we could. Our men very unani<g ref="char:EOLhyphen"/>mous in the Work: And I am very confident upon very ſafe grounds of Faith, that they ſhould be as driven ſtubble be<g ref="char:EOLhyphen"/>fore the whirlewind of the Lord. I ſhall not add more, I bleſſe God I fear before him, He is our ſtrength and our confi<g ref="char:EOLhyphen"/>dence. But ſurely they quitted themſelves very diſhonora<g ref="char:EOLhyphen"/>bly: forasmuch as they ſuffered us to take one of their Fleet, of thirty Guns, and as I preſume by all circumſtances we ſunk another of the ſame force: both which fought very ſtoutly, yet none of their Fleet would ſuccor them, ſo great was their haſte, and I do verily think, that if we had had one hour or two more before it was dark, you would have received a bet<g ref="char:EOLhyphen"/>ter account of many of the reſt. As for that Ship that was taken, ſhe is with us, and her men which are about ninety or one hunured, are devided aboard our Ships, the Captaine of her is a <hi>Fluſhinger,</hi> who was aboard off me at <hi>Calis,</hi> when I was abroad with a ſquadron, about three weeks agoe, and he cries out agaiſt <hi>Trump,</hi> and the reſt, for their cowardly carriage in leaving them to our mercy, having ſo great a Fleet with him, we being but halfe his number, and withall avowes he had no knowledge of any intention to fight with us. As for the o<g ref="char:EOLhyphen"/>ther Ship, I preſume ſhe ſunk in the night, foraſmuch as when our ſhips left her, ſhe had ſix foot water in hold, and her main<g ref="char:EOLhyphen"/>maſt ſhot over-board, and our men durſt not keep in her, the Captaine of her forſooke her, and came aboard in the Boate we ſent aboard, but what is become of the men we know not, it being in the night, and our Fleet ſcattered were conſtrain<g ref="char:EOLhyphen"/>ed to gather about our General, to the end we might conſult what to doe, we having been ſurprized before we could ſpeak
+<pb n="7" facs="tcp:118216:4"/>a word together, or receive any thing of command from him. What other ſpoile we did them we know not, what they have done to us is not very conſiderable, unleſſe the bloud of our men, which will be called for in due ſeaſon. The Ge<g ref="char:EOLhyphen"/>nerall had ſix men killed, beſides divers wounded, ſome others loſt four, ſome two, and one, and ſome none killed, but few hurt. Our Rigging, Maſts, and Sayles ſhot, moſt of us, and many ſhot in our Hulls, notwithſtanding we have loſt ſo few men. All I ſhall ſay is, this is the firſt of Gods appearing for us by Sea, and though the fight was running, and not ſo hot as otherwiſe it would, if they had not declined it, yet we look at God in his providence, giving us great boldneſſe to believe that the Warre was his, and that if they go on to make warre, it is that they may be broken, although we are very unworthy of any ſuch favour, and very weak and inconſiderable in ſtrength.</p>
+            <p>The 20. being yeſterday, we ſaw them in the morning as farre as we could deſcry them, plying over as I ſuppoſe for <hi>Deip</hi> Roads, or the Coaſt of <hi>France,</hi> that night it was reſolved at a Coun<g ref="char:EOLhyphen"/>cel of Warre to ply into <hi>Dover</hi> Road, or the Downs, there to recruit ſome things we want, and alſo to receive a poſitive Order from our State in order to our proceedings. The Lord of Light be their Counſellor, and then fear nothing. I have been more tedious in this narrative, (not that I love long diſ<g ref="char:EOLhyphen"/>courſe, neither am very fit at preſent to write) but to ſatisfy you and all friends who are with us in heart, and are deeply concerned in this beginning. The Lord help you to remem<g ref="char:EOLhyphen"/>ber us, and keep us faithfull unto him, and his Intereſt, and honour us much more in doing him ſervice if he have any pleaſure in us, which is the greateſt ambition I have in this World, and ſo I crave leave to remaine,</p>
+            <closer>
+               <signed>Your very affectionate and faithfull Servant, <hi>N. BOURNE.</hi>
+               </signed>
+               <dateline>Aboard the <hi>Andrew,</hi> in the Downes, <date>
+                     <hi>May,</hi> 21. 1652. in the afternoon.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
